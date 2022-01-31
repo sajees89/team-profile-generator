@@ -41,7 +41,7 @@ THEN I exit the application, and the HTML is generated
   * [Contact](##-contact)
 
 ## Installation
-To install the necessary dependencies, run the following command: npm install i to install inquirer and it's dependencies. 
+To install the necessary dependencies, run the following command: npm install i to install inquirer. 
 
 ## License 
 ![License](https://img.shields.io/badge/License-MIT-9cf.svg)
@@ -59,4 +59,4 @@ Type node index.js from the directory the file is in. The new html will be creat
 To run tests, tun the following command: npm test
 
 ## Contact 
-At [GitHub](hhtps://github.com/sajees89)
+At [GitHub](https://github.com/sajees89)
