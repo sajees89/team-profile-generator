@@ -124,9 +124,9 @@ function manager() {
     },
   ];
   
-function init() {
+function myTeam() {
     console.log("Add team members: ");
     manager();
   }
   
-  init();
+  myTeam();
