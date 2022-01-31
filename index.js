@@ -124,13 +124,9 @@ function manager() {
     },
   ];
   
-function myTeam() {
+  function init() {
     console.log("Add team members: ");
     manager();
   }
   
-<<<<<<< HEAD
-  myTeam();
-=======
-  myTeam();
->>>>>>> d475632eba7fff1ae2449a0dd321e698bf12119b
+  init();
