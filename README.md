@@ -59,4 +59,8 @@ Type node index.js from the directory the file is in. The new html will be creat
 To run tests, tun the following command: npm test
 
 ## Contact 
+<<<<<<< HEAD
 At [GitHub](https://github.com/sajees89)
+=======
+At [GitHub](https://github.com/sajees89)
+>>>>>>> d475632eba7fff1ae2449a0dd321e698bf12119b

@@ -129,4 +129,8 @@ function myTeam() {
     manager();
   }
   
+<<<<<<< HEAD
   myTeam();
+=======
+  myTeam();
+>>>>>>> d475632eba7fff1ae2449a0dd321e698bf12119b
